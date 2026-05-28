@@ -224,9 +224,11 @@ function Index() {
             <button className="btn ghost sm" onClick={newSingle}>
               ↻ New random building
             </button>
-            <button className="btn sm" onClick={() => setGmOpen(true)}>
-              🎓 Game Master setup
-            </button>
+            {mode !== "gm" && (
+              <button className="btn sm" onClick={() => setGmOpen(true)}>
+                🎓 Game Master setup
+              </button>
+            )}
           </div>
         </header>
 
