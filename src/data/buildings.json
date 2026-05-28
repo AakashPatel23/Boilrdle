@@ -1,0 +1,1160 @@
+[
+ {
+  "abbr": "ABE",
+  "name": "Agricultural and Biological Engineering",
+  "x": 390.01,
+  "y": 538.4
+ },
+ {
+  "abbr": "MACK",
+  "name": "Mackey (Guy J.) Arena",
+  "x": 401.73,
+  "y": 230.34
+ },
+ {
+  "abbr": "CARY",
+  "name": "Cary (Franklin Levering) Quadrangle",
+  "x": 362.71,
+  "y": 255.13
+ },
+ {
+  "abbr": "LAMB",
+  "name": "Lambert (Ward L.) Fieldhouse and Gymnasium",
+  "x": 403.06,
+  "y": 256.39
+ },
+ {
+  "abbr": "ARMS",
+  "name": "Armstrong (Neil) Hall of Engineering",
+  "x": 421.24,
+  "y": 291.01
+ },
+ {
+  "abbr": "HAMP",
+  "name": "Hampton (Delon and Elizabeth) Hall of Civil Engineering",
+  "x": 425.43,
+  "y": 310.41
+ },
+ {
+  "abbr": "PHYS",
+  "name": "Physics Building",
+  "x": 449.52,
+  "y": 311.59
+ },
+ {
+  "abbr": "RHPH",
+  "name": "Heine (Robert E.) Pharmacy Building",
+  "x": 402.48,
+  "y": 323.94
+ },
+ {
+  "abbr": "PGSC",
+  "name": "Purdue Graduate Student Center",
+  "x": 485.73,
+  "y": 322.01
+ },
+ {
+  "abbr": "FRNY",
+  "name": "Forney Hall of Chemical Engineering",
+  "x": 444.12,
+  "y": 330.74
+ },
+ {
+  "abbr": "MSEE",
+  "name": "Materials and Electrical Engineering Building",
+  "x": 468.75,
+  "y": 334.21
+ },
+ {
+  "abbr": "DSAI",
+  "name": "Hall of Data Science",
+  "x": 424.82,
+  "y": 345.48
+ },
+ {
+  "abbr": "CHAS",
+  "name": "Chaney-Hale Hall of Science",
+  "x": 410.86,
+  "y": 354.03
+ },
+ {
+  "abbr": "HOVD",
+  "name": "Hovde (Frederick L.) Hall of Administration",
+  "x": 433.38,
+  "y": 364.61
+ },
+ {
+  "abbr": "AR",
+  "name": "Armory",
+  "x": 396.95,
+  "y": 371.31
+ },
+ {
+  "abbr": "ELLT",
+  "name": "Elliott (Edward C.) Hall of Music",
+  "x": 422.46,
+  "y": 373.43
+ },
+ {
+  "abbr": "POTR",
+  "name": "Potter (A.A.) Engineering Center",
+  "x": 474.59,
+  "y": 383.78
+ },
+ {
+  "abbr": "WALC",
+  "name": "Wilmeth (Thomas S. and Harvey D.) Active Learning Center",
+  "x": 472.13,
+  "y": 396.4
+ },
+ {
+  "abbr": "MRDS",
+  "name": "Meredith (Virginia C.) Residence Hall South",
+  "x": 251.06,
+  "y": 439.91
+ },
+ {
+  "abbr": "CONV",
+  "name": "Convergence",
+  "x": 178.6,
+  "y": 496.6
+ },
+ {
+  "abbr": "LYNN",
+  "name": "Lynn (Charles J.) Hall of Veterinary Medicine",
+  "x": 430.98,
+  "y": 597.74
+ },
+ {
+  "abbr": "BRFM",
+  "name": "Brunner (David and Bonnie) Farm Animal Hospital",
+  "x": 503.83,
+  "y": 635.18
+ },
+ {
+  "abbr": "WADE",
+  "name": "Wade (Walter W.) Utility Plant",
+  "x": 474.9,
+  "y": 655.63
+ },
+ {
+  "abbr": "SCHO",
+  "name": "Global Policy Research Institute (Schowe House)",
+  "x": 354.61,
+  "y": 77.13
+ },
+ {
+  "abbr": "KFPC",
+  "name": "Kozuch Football Performance Complex",
+  "x": 399.28,
+  "y": 151.71
+ },
+ {
+  "abbr": "BTV",
+  "name": "Boiler Television Building",
+  "x": 327.29,
+  "y": 157.0
+ },
+ {
+  "abbr": "MOLL",
+  "name": "Mollenkopf Athletic Center",
+  "x": 385.52,
+  "y": 169.08
+ },
+ {
+  "abbr": "STDM",
+  "name": "Ross-Ade Stadium (includes Ross-Ade Pavilion [RAP])",
+  "x": 341.27,
+  "y": 203.78
+ },
+ {
+  "abbr": "TREC",
+  "name": "Turf Recreation Exercise Center",
+  "x": 233.28,
+  "y": 357.4
+ },
+ {
+  "abbr": "PGMD",
+  "name": "Parking Garage, McCutcheon Drive",
+  "x": 155.55,
+  "y": 401.09
+ },
+ {
+  "abbr": "SHRV",
+  "name": "Shreve (Eleanor B.) Residence Hall",
+  "x": 220.44,
+  "y": 402.73
+ },
+ {
+  "abbr": "SMLY",
+  "name": "Smalley (John C.) Center for Housing and Food Services",
+  "x": 266.61,
+  "y": 399.61
+ },
+ {
+  "abbr": "HILL",
+  "name": "Hillenbrand Residence Hall",
+  "x": 183.98,
+  "y": 407.83
+ },
+ {
+  "abbr": "WARN",
+  "name": "Warren (Martha E. and Eugene K.) Residence Hall",
+  "x": 316.45,
+  "y": 412.45
+ },
+ {
+  "abbr": "MRDH",
+  "name": "Meredith (Virginia C.) Residence Hall",
+  "x": 265.77,
+  "y": 417.64
+ },
+ {
+  "abbr": "ERHT",
+  "name": "Earhart (Amelia) Residence Hall",
+  "x": 220.56,
+  "y": 426.89
+ },
+ {
+  "abbr": "MCUT",
+  "name": "McCutcheon (John T.) Residence Hall",
+  "x": 157.57,
+  "y": 447.88
+ },
+ {
+  "abbr": "HARR",
+  "name": "Harrison (Benjamin) Residence Hall",
+  "x": 183.8,
+  "y": 447.83
+ },
+ {
+  "abbr": "AGAD",
+  "name": "Agricultural Administration Building",
+  "x": 435.66,
+  "y": 486.64
+ },
+ {
+  "abbr": "HERL",
+  "name": "Herrick Acoustics",
+  "x": 308.42,
+  "y": 515.19
+ },
+ {
+  "abbr": "HLAB",
+  "name": "Herrick Laboratories",
+  "x": 312.43,
+  "y": 522.06
+ },
+ {
+  "abbr": "DRUG",
+  "name": "Drug Discovery",
+  "x": 369.25,
+  "y": 528.68
+ },
+ {
+  "abbr": "LSR",
+  "name": "Life Science Ranges (Greenhouse and Service Building)",
+  "x": 346.53,
+  "y": 534.21
+ },
+ {
+  "abbr": "SOIL",
+  "name": "Soil Erosion Laboratory, National",
+  "x": 315.85,
+  "y": 549.16
+ },
+ {
+  "abbr": "PVAB",
+  "name": "Purdue Village Administration Building",
+  "x": 241.33,
+  "y": 577.2
+ },
+ {
+  "abbr": "VCPR",
+  "name": "Veterinary Center for Paralysis Research",
+  "x": 432.0,
+  "y": 612.7
+ },
+ {
+  "abbr": "EHSB",
+  "name": "Equine Health Sciences Building",
+  "x": 425.08,
+  "y": 619.72
+ },
+ {
+  "abbr": "MMS1",
+  "name": "Materials Management Storage Building",
+  "x": 338.77,
+  "y": 728.55
+ },
+ {
+  "abbr": "PFSB",
+  "name": "Physical Facilities Service Building",
+  "x": 378.05,
+  "y": 747.0
+ },
+ {
+  "abbr": "GCMB",
+  "name": "Golf Course Maintenance Barn",
+  "x": 156.98,
+  "y": 95.1
+ },
+ {
+  "abbr": "GSMB",
+  "name": "Golf Storage Maintenance Building",
+  "x": 156.7,
+  "y": 105.22
+ },
+ {
+  "abbr": "BRES",
+  "name": "Brees (Drew and Brittany) Student-Athlete Academic Center",
+  "x": 389.96,
+  "y": 211.26
+ },
+ {
+  "abbr": "HLTP",
+  "name": "Hilltop Apartments",
+  "x": 297.79,
+  "y": 226.08
+ },
+ {
+  "abbr": "SCPA",
+  "name": "Slayter Center of Performing Arts",
+  "x": 271.29,
+  "y": 259.21
+ },
+ {
+  "abbr": "OWEN",
+  "name": "Owen (Richard) Residence Hall",
+  "x": 306.4,
+  "y": 267.81
+ },
+ {
+  "abbr": "TARK",
+  "name": "Tarkington (Newton Booth) Residence Hall",
+  "x": 306.16,
+  "y": 291.34
+ },
+ {
+  "abbr": "PUSH",
+  "name": "Purdue University Student Health Center",
+  "x": 393.7,
+  "y": 314.96
+ },
+ {
+  "abbr": "PGNW",
+  "name": "Parking Garage, Northwestern Avenue",
+  "x": 501.87,
+  "y": 328.22
+ },
+ {
+  "abbr": "WILY",
+  "name": "Wiley (Harvey W.) Residence Hall",
+  "x": 306.82,
+  "y": 342.61
+ },
+ {
+  "abbr": "DMNT",
+  "name": "DeMent (Clayton W.) Fire Station",
+  "x": 240.47,
+  "y": 373.56
+ },
+ {
+  "abbr": "BCC",
+  "name": "Black Cultural Center",
+  "x": 331.78,
+  "y": 377.25
+ },
+ {
+  "abbr": "BIDC",
+  "name": "Bechtel Innovation Design Center",
+  "x": 345.93,
+  "y": 377.24
+ },
+ {
+  "abbr": "VAWT",
+  "name": "Vawter (Everett B.) Residence Hall",
+  "x": 315.21,
+  "y": 393.17
+ },
+ {
+  "abbr": "PSYC",
+  "name": "Psychological Sciences Building",
+  "x": 422.01,
+  "y": 396.29
+ },
+ {
+  "abbr": "PGU",
+  "name": "Parking Garage, University Street",
+  "x": 375.92,
+  "y": 404.64
+ },
+ {
+  "abbr": "BRWN",
+  "name": "Brown (Herbert C.) Laboratory of Chemistry",
+  "x": 484.82,
+  "y": 408.29
+ },
+ {
+  "abbr": "WOOD",
+  "name": "Wood (Elizabeth G. and William R.) Residence Hall",
+  "x": 280.32,
+  "y": 414.32
+ },
+ {
+  "abbr": "CL50",
+  "name": "Class of 1950 Lecture Hall",
+  "x": 420.59,
+  "y": 415.26
+ },
+ {
+  "abbr": "SC",
+  "name": "Stanley Coulter Hall",
+  "x": 434.83,
+  "y": 412.96
+ },
+ {
+  "abbr": "WTHR",
+  "name": "Wetherill (Richard Benbridge) Laboratory of Chemistry",
+  "x": 460.34,
+  "y": 411.44
+ },
+ {
+  "abbr": "GRIS",
+  "name": "Grissom Hall",
+  "x": 505.7,
+  "y": 417.31
+ },
+ {
+  "abbr": "SHLY",
+  "name": "Shealy (Frances M.) Residence Hall",
+  "x": 317.51,
+  "y": 421.08
+ },
+ {
+  "abbr": "TEL",
+  "name": "Telecommunications Building",
+  "x": 382.42,
+  "y": 424.14
+ },
+ {
+  "abbr": "PMUC",
+  "name": "Purdue Memorial Union Club",
+  "x": 508.9,
+  "y": 423.49
+ },
+ {
+  "abbr": "DUHM",
+  "name": "Duhme (Ophelia) Residence Hall",
+  "x": 295.76,
+  "y": 438.17
+ },
+ {
+  "abbr": "UNIV",
+  "name": "University Hall",
+  "x": 426.65,
+  "y": 441.2
+ },
+ {
+  "abbr": "HNLY",
+  "name": "Hanley (Bill and Sally) Hall",
+  "x": 264.1,
+  "y": 459.08
+ },
+ {
+  "abbr": "FWLR",
+  "name": "Fowler (Harriet O. and James M., Jr.) Memorial House",
+  "x": 276.69,
+  "y": 464.68
+ },
+ {
+  "abbr": "PFEN",
+  "name": "Pfendler (David C.) Hall of Agriculture",
+  "x": 414.1,
+  "y": 480.7
+ },
+ {
+  "abbr": "PAO",
+  "name": "Pao (Yue-Kong) Hall of Visual and Performing Arts",
+  "x": 463.4,
+  "y": 514.83
+ },
+ {
+  "abbr": "DAUC",
+  "name": "Dauch (Dick and Sandy) Alumni Center",
+  "x": 506.09,
+  "y": 534.36
+ },
+ {
+  "abbr": "HGRH",
+  "name": "Horticultural Greenhouse",
+  "x": 440.58,
+  "y": 545.85
+ },
+ {
+  "abbr": "VPTH",
+  "name": "Veterinary Pathology Building",
+  "x": 411.45,
+  "y": 575.37
+ },
+ {
+  "abbr": "AHF",
+  "name": "Animal Holding Facility",
+  "x": 447.78,
+  "y": 630.52
+ },
+ {
+  "abbr": "UPOF",
+  "name": "Utility Plant Office Facility",
+  "x": 474.08,
+  "y": 630.07
+ },
+ {
+  "abbr": "HMMT",
+  "name": "Hazardous Materials Management Trailer",
+  "x": 511.11,
+  "y": 683.85
+ },
+ {
+  "abbr": "LMST",
+  "name": "Laboratory Materials Storage Trailer",
+  "x": 513.5,
+  "y": 688.91
+ },
+ {
+  "abbr": "LMSB",
+  "name": "Laboratory Materials Storage Building",
+  "x": 513.48,
+  "y": 694.74
+ },
+ {
+  "abbr": "JNSN",
+  "name": "Johnson (Helen R.) Hall of Nursing",
+  "x": 420.03,
+  "y": 328.95
+ },
+ {
+  "abbr": "WEST",
+  "name": "Westwood (President\u2019s Home)",
+  "x": 36.59,
+  "y": 340.42
+ },
+ {
+  "abbr": "ME",
+  "name": "Mechanical Engineering Building",
+  "x": 465.0,
+  "y": 360.49
+ },
+ {
+  "abbr": "RAIL",
+  "name": "American Railway Building",
+  "x": 471.03,
+  "y": 374.18
+ },
+ {
+  "abbr": "KNOY",
+  "name": "Knoy (Maurice G.) Hall of Technology",
+  "x": 509.86,
+  "y": 377.6
+ },
+ {
+  "abbr": "BALY",
+  "name": "Bailey (Ralph and Bettye) Hall H6-7",
+  "x": 526.93,
+  "y": 397.66
+ },
+ {
+  "abbr": "UC",
+  "name": "University Church",
+  "x": 524.33,
+  "y": 411.3
+ },
+ {
+  "abbr": "MATH",
+  "name": "Mathematical Sciences Building",
+  "x": 397.24,
+  "y": 418.5
+ },
+ {
+  "abbr": "SCHM",
+  "name": "Helen B. Schleman Hall",
+  "x": 427.61,
+  "y": 424.65
+ },
+ {
+  "abbr": "BRNG",
+  "name": "Beering (Steven C.) Hall of Liberal Arts and Education",
+  "x": 397.29,
+  "y": 440.36
+ },
+ {
+  "abbr": "STON",
+  "name": "Stone (Winthrop E.) Hall",
+  "x": 415.89,
+  "y": 464.0
+ },
+ {
+  "abbr": "HIKS",
+  "name": "Hicks (John W.) Undergraduate Library",
+  "x": 469.91,
+  "y": 469.33
+ },
+ {
+  "abbr": "YONG",
+  "name": "Young (Ernest C.) Hall",
+  "x": 501.51,
+  "y": 502.24
+ },
+ {
+  "abbr": "BCHM",
+  "name": "Biochemistry Building",
+  "x": 384.48,
+  "y": 505.82
+ },
+ {
+  "abbr": "VPRB",
+  "name": "Veterinary Pathobiology Research Building",
+  "x": 390.85,
+  "y": 584.13
+ },
+ {
+  "abbr": "VLAB",
+  "name": "Veterinary Laboratory Animal Building",
+  "x": 419.78,
+  "y": 612.26
+ },
+ {
+  "abbr": "DOYL",
+  "name": "Doyle (Leo Philip) Laboratory",
+  "x": 412.02,
+  "y": 623.56
+ },
+ {
+  "abbr": "UPSB",
+  "name": "Utility Plant Storage Building",
+  "x": 454.11,
+  "y": 661.07
+ },
+ {
+  "abbr": "SIML",
+  "name": "Holleman-Niswonger Simulator Center",
+  "x": 33.05,
+  "y": 668.26
+ },
+ {
+  "abbr": "FOPN",
+  "name": "Flight Operations Building",
+  "x": 116.58,
+  "y": 673.54
+ },
+ {
+  "abbr": "AERO",
+  "name": "Aerospace Science Laboratory",
+  "x": 147.21,
+  "y": 679.87
+ },
+ {
+  "abbr": "TERM",
+  "name": "Terminal Building",
+  "x": 99.0,
+  "y": 682.92
+ },
+ {
+  "abbr": "NISW",
+  "name": "Niswonger Aviation Technology Building",
+  "x": 120.18,
+  "y": 686.85
+ },
+ {
+  "abbr": "COMP",
+  "name": "Composites Laboratory",
+  "x": 143.17,
+  "y": 691.62
+ },
+ {
+  "abbr": "PGG",
+  "name": "Parking Garage, Grant Street",
+  "x": 526.6,
+  "y": 444.09
+ },
+ {
+  "abbr": "STEW",
+  "name": "Stewart Center (includes Welcome Center)",
+  "x": 462.82,
+  "y": 449.51
+ },
+ {
+  "abbr": "PMU",
+  "name": "Purdue Memorial Union",
+  "x": 495.6,
+  "y": 449.09
+ },
+ {
+  "abbr": "KRAN",
+  "name": "Krannert Building",
+  "x": 505.96,
+  "y": 484.06
+ },
+ {
+  "abbr": "RAWL",
+  "name": "Rawls (Jerry S.) Hall",
+  "x": 526.56,
+  "y": 483.32
+ },
+ {
+  "abbr": "HAWK",
+  "name": "Hawkins (George A.) Hall",
+  "x": 486.17,
+  "y": 518.28
+ },
+ {
+  "abbr": "LILY",
+  "name": "Lilly Hall of Life Sciences",
+  "x": 357.06,
+  "y": 489.42
+ },
+ {
+  "abbr": "SMTH",
+  "name": "Smith Hall",
+  "x": 383.74,
+  "y": 487.95
+ },
+ {
+  "abbr": "GRS",
+  "name": "Grounds Service Building",
+  "x": 322.4,
+  "y": 507.42
+ },
+ {
+  "abbr": "AAPF",
+  "name": "Ag Alumni Seed Phenotyping Facility",
+  "x": 339.67,
+  "y": 508.8
+ },
+ {
+  "abbr": "LSA",
+  "name": "Life Science Animal Building",
+  "x": 368.36,
+  "y": 515.83
+ },
+ {
+  "abbr": "HORT",
+  "name": "Horticulture Building",
+  "x": 435.07,
+  "y": 530.07
+ },
+ {
+  "abbr": "NLSN",
+  "name": "Nelson (Philip E.) Hall of Food Science",
+  "x": 413.57,
+  "y": 540.11
+ },
+ {
+  "abbr": "CRTN",
+  "name": "Creighton (Hobart and Russell) Hall of Animal Sciences",
+  "x": 344.61,
+  "y": 549.38
+ },
+ {
+  "abbr": "LOLC",
+  "name": "Land O\u2019Lakes Center for Experiential Learning",
+  "x": 349.35,
+  "y": 557.81
+ },
+ {
+  "abbr": "PMRI",
+  "name": "Purdue Magnetic Resonance Imaging Facility",
+  "x": 411.92,
+  "y": 557.04
+ },
+ {
+  "abbr": "CONT",
+  "name": "Continuum",
+  "x": 155.82,
+  "y": 481.24
+ },
+ {
+  "abbr": "BRK",
+  "name": "Birck Nanotechnology Center",
+  "x": 227.04,
+  "y": 512.62
+ },
+ {
+  "abbr": "BRUN",
+  "name": "Brunner (David and Bonnie) Small Animal Hospital",
+  "x": 468.49,
+  "y": 601.46
+ },
+ {
+  "abbr": "BREQ",
+  "name": "Brunner (David and Bonnie) Equine Hospital",
+  "x": 459.59,
+  "y": 620.05
+ },
+ {
+  "abbr": "VMIF",
+  "name": "Veterinary Medicine Isolation Facility",
+  "x": 419.95,
+  "y": 640.68
+ },
+ {
+  "abbr": "EHSA",
+  "name": "Equine Health Sciences Annex",
+  "x": 438.92,
+  "y": 643.32
+ },
+ {
+  "abbr": "ADM",
+  "name": "Agricultural Innovation Center",
+  "x": 326.79,
+  "y": 679.79
+ },
+ {
+  "abbr": "MMDC",
+  "name": "Materials Management and Distribution Center",
+  "x": 362.29,
+  "y": 708.03
+ },
+ {
+  "abbr": "PRSV",
+  "name": "Printing Services Facility",
+  "x": 379.17,
+  "y": 706.35
+ },
+ {
+  "abbr": "DYE",
+  "name": "Pete Dye Clubhouse",
+  "x": 194.14,
+  "y": 36.29
+ },
+ {
+  "abbr": "OLMN",
+  "name": "Ollman (Melvin L.) Golfcart Barn",
+  "x": 164.77,
+  "y": 55.39
+ },
+ {
+  "abbr": "VOIN",
+  "name": "Voinoff (Samuel) Golf Pavilion",
+  "x": 174.59,
+  "y": 64.1
+ },
+ {
+  "abbr": "SPUR",
+  "name": "Spurgeon (Tom) Golf Training Center",
+  "x": 163.33,
+  "y": 70.56
+ },
+ {
+  "abbr": "WGLR",
+  "name": "Women\u2019s Golf Locker Room",
+  "x": 238.89,
+  "y": 70.42
+ },
+ {
+  "abbr": "PDYE",
+  "name": "Pete Dye Clubhouse",
+  "x": 192.6,
+  "y": 90.6
+ },
+ {
+  "abbr": "WDCT",
+  "name": "Wiley Dining Court",
+  "x": 305.47,
+  "y": 358.0
+ },
+ {
+  "abbr": "PRCE",
+  "name": "Peirce Hall",
+  "x": 410.39,
+  "y": 405.52
+ },
+ {
+  "abbr": "ECEC",
+  "name": "Purdue University Early Care and Education Center",
+  "x": 63.99,
+  "y": 450.66
+ },
+ {
+  "abbr": "LSPS",
+  "name": "Life Science Plant and Soils Laboratory",
+  "x": 334.06,
+  "y": 499.32
+ },
+ {
+  "abbr": "MJIS",
+  "name": "Jischke (Martin C.) Hall of Biomedical Engineering",
+  "x": 300.03,
+  "y": 530.09
+ },
+ {
+  "abbr": "UPOB",
+  "name": "Utility Plant Office Building",
+  "x": 486.29,
+  "y": 663.16
+ },
+ {
+  "abbr": "LG",
+  "name": "Lambert Green",
+  "x": 422.62,
+  "y": 272.43
+ },
+ {
+  "abbr": "WANG",
+  "name": "Wang (Seng-Liang) Hall",
+  "x": 472.02,
+  "y": 307.05
+ },
+ {
+  "abbr": "AACC",
+  "name": "Asian American and Asian Resource and Cultural Center",
+  "x": 368.65,
+  "y": 334.22
+ },
+ {
+  "abbr": "NACC",
+  "name": "Native American Educational and Cultural Center",
+  "x": 383.62,
+  "y": 334.21
+ },
+ {
+  "abbr": "LCCP",
+  "name": "Latino Cultural Center at Purdue",
+  "x": 370.78,
+  "y": 348.37
+ },
+ {
+  "abbr": "BHEE",
+  "name": "Brown (Max W & Maileen) Family Hall",
+  "x": 483.07,
+  "y": 352.41
+ },
+ {
+  "abbr": "CREC",
+  "name": "C\u00f3rdova (France A.) Recreational Sports Center",
+  "x": 271.08,
+  "y": 358.9
+ },
+ {
+  "abbr": "PKRF",
+  "name": "Parker (Frieda) Residence Hall",
+  "x": 337.82,
+  "y": 362.28
+ },
+ {
+  "abbr": "HULL",
+  "name": "Hull All-American Marching Band",
+  "x": 226.83,
+  "y": 367.49
+ },
+ {
+  "abbr": "AQUA",
+  "name": "Burke (Morgan J.) Boilermaker Aquatic Center",
+  "x": 253.9,
+  "y": 366.1
+ },
+ {
+  "abbr": "LMBS",
+  "name": "Lambertus Hall",
+  "x": 489.3,
+  "y": 370.06
+ },
+ {
+  "abbr": "PKRW",
+  "name": "Parker (Winifred) Residence Hall",
+  "x": 309.28,
+  "y": 377.36
+ },
+ {
+  "abbr": "KRCH",
+  "name": "Krach Leadership Center",
+  "x": 296.38,
+  "y": 382.46
+ },
+ {
+  "abbr": "DUDL",
+  "name": "Dudley Hall",
+  "x": 497.34,
+  "y": 394.02
+ },
+ {
+  "abbr": "HCRN",
+  "name": "Honors College and Residences North",
+  "x": 323.99,
+  "y": 403.11
+ },
+ {
+  "abbr": "HAGL",
+  "name": "Hagle (Marc and Sharon) Hall",
+  "x": 345.92,
+  "y": 400.83
+ },
+ {
+  "abbr": "HCRS",
+  "name": "Honors College and Residences South",
+  "x": 323.98,
+  "y": 431.34
+ },
+ {
+  "abbr": "FST",
+  "name": "First Street Towers",
+  "x": 227.79,
+  "y": 462.06
+ },
+ {
+  "abbr": "EEL",
+  "name": "Entomology Environmental Laboratory",
+  "x": 428.51,
+  "y": 504.81
+ },
+ {
+  "abbr": "HANS",
+  "name": "Hansen (Arthur G.) Life Sciences Research Building",
+  "x": 381.73,
+  "y": 522.94
+ },
+ {
+  "abbr": "DLR",
+  "name": "Hall for Discovery and Learning Research",
+  "x": 272.01,
+  "y": 551.35
+ },
+ {
+  "abbr": "HOCK",
+  "name": "Hockmeyer (Wayne T. and Mary T.) Hall of Structural Biology",
+  "x": 296.59,
+  "y": 552.46
+ },
+ {
+  "abbr": "PGH",
+  "name": "Parking Garage, Harrison Street",
+  "x": 368.86,
+  "y": 556.53
+ },
+ {
+  "abbr": "LYLE",
+  "name": "Lyles-Porter Hall",
+  "x": 387.99,
+  "y": 556.05
+ },
+ {
+  "abbr": "CHAF",
+  "name": "Chaffee Hall",
+  "x": 34.79,
+  "y": 587.68
+ },
+ {
+  "abbr": "HARF",
+  "name": "Hypersonics and Applied Research Facility",
+  "x": 57.31,
+  "y": 584.83
+ },
+ {
+  "abbr": "AET",
+  "name": "Amelia Earhart Terminal",
+  "x": 85.51,
+  "y": 677.96
+ },
+ {
+  "abbr": "GMF",
+  "name": "Grounds Maintenance Facility",
+  "x": 339.33,
+  "y": 705.94
+ },
+ {
+  "abbr": "ASB",
+  "name": "Airport Service Building (Shop Services) A11-12",
+  "x": 26.68,
+  "y": 713.6
+ },
+ {
+  "abbr": "GMGF",
+  "name": "Grounds Maintenance Greenhouse Facilities",
+  "x": 316.97,
+  "y": 714.61
+ },
+ {
+  "abbr": "TSWF",
+  "name": "Transportation Service Wash Facility",
+  "x": 424.38,
+  "y": 756.48
+ },
+ {
+  "abbr": "PTCA",
+  "name": "Purdue Technology Center Aerospace",
+  "x": 49.16,
+  "y": 529.5
+ },
+ {
+  "abbr": "ZL5",
+  "name": "Turbomachinery Fluid Dynamics Laboratory",
+  "x": 40.68,
+  "y": 582.67
+ },
+ {
+  "abbr": "ZL2",
+  "name": "Gas Dynamics Research Laboratory",
+  "x": 46.09,
+  "y": 586.82
+ },
+ {
+  "abbr": "ZL1",
+  "name": "Combustion Research Laboratory",
+  "x": 39.37,
+  "y": 599.94
+ },
+ {
+  "abbr": "ZL3",
+  "name": "High Pressure Research Laboratory",
+  "x": 58.62,
+  "y": 606.47
+ },
+ {
+  "abbr": "BBCH",
+  "name": "Purdue Baseball Clubhouse",
+  "x": 128.21,
+  "y": 120.99
+ },
+ {
+  "abbr": "SOCC",
+  "name": "Purdue Women\u2019s Soccer Building",
+  "x": 187.02,
+  "y": 126.84
+ },
+ {
+  "abbr": "PJEC",
+  "name": "Jischke (Patty) Early Care and Education Center Purdue (formerly Griffin Residence Halls)",
+  "x": 542.51,
+  "y": 145.79
+ },
+ {
+  "abbr": "SBCH",
+  "name": "Purdue Softball Clubhouse",
+  "x": 176.51,
+  "y": 164.29
+ },
+ {
+  "abbr": "SBPB",
+  "name": "Purdue Softball Press Box",
+  "x": 161.21,
+  "y": 172.82
+ },
+ {
+  "abbr": "SCHW",
+  "name": "Schwartz (Dennis J. and Mary Lou) Tennis Center",
+  "x": 208.22,
+  "y": 169.25
+ },
+ {
+  "abbr": "PAGE",
+  "name": "Page (Thomas A.) Pavilion",
+  "x": 509.91,
+  "y": 730.09
+ },
+ {
+  "abbr": "BOWN",
+  "name": "Bowen (Robert L. & Terry L. ) Laboratory",
+  "x": 470.33,
+  "y": 745.1
+ }
+]
