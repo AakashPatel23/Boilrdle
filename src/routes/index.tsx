@@ -517,8 +517,7 @@ function GameMasterModal({
   const onLoad = () => {
     const arr = decodeCode(loadCode.trim());
     if (arr.length === 0) return;
-    setList(arr);
-    setLoadCode("");
+    onStart(arr);
   };
 
   return (

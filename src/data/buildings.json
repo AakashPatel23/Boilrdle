@@ -1,5 +1,17 @@
 [
  {
+  "abbr": "LWSN",
+  "name": "Lawson (Thomas M.) Computer Science Building",
+  "x": 495.0,
+  "y": 290.0
+ },
+ {
+  "abbr": "HAAS",
+  "name": "Haas (Elmore M.) Hall",
+  "x": 516.0,
+  "y": 287.0
+ },
+ {
   "abbr": "ABE",
   "name": "Agricultural and Biological Engineering",
   "x": 390.01,
