@@ -50,7 +50,6 @@ const colorForDistance = (d: number, isMystery: boolean): string => {
 // =========================================================================
 // Game master persistence + share codes
 // =========================================================================
-const LS_KEY = "boilrdle.gm.levels.v1";
 const encodeCode = (abbrs: string[]) =>
   btoa(abbrs.join("|")).replace(/=+$/, "");
 const decodeCode = (code: string): string[] => {
@@ -95,21 +94,6 @@ function Index() {
     if (!mystery) setMystery(pickRandom());
   }, [mystery]);
 
-  // load saved GM levels
-  useEffect(() => {
-    try {
-      const raw = localStorage.getItem(LS_KEY);
-      if (raw) {
-        const arr = JSON.parse(raw);
-        if (Array.isArray(arr)) setLevels(arr.filter((a) => BY_ABBR.has(a)));
-      }
-    } catch {}
-  }, []);
-  useEffect(() => {
-    try {
-      localStorage.setItem(LS_KEY, JSON.stringify(levels));
-    } catch {}
-  }, [levels]);
 
   const guessedAbbrs = useMemo(
     () => new Set(guesses.map((g) => g.abbr)),
